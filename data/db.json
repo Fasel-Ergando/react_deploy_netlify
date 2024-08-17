@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My first Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sequi, iure ad beatae nostrum architecto magnam accusantium ullam corporis, tenetur repudiandae fugiat. Enim, rerum saepe nesciunt repellendus delectus sit mollitia!"
+    },
+    {
+      "id": "2",
+      "title": "hey you man",
+      "datetime": "August 16, 2024 10:50:30 PM",
+      "body": "what's up"
+    },
+    {
+      "id": "21",
+      "title": ".jh",
+      "datetime": "August 17, 2024 1:38:25 PM",
+      "body": ".l"
+    },
+    {
+      "id": "211",
+      "title": "Fae",
+      "datetime": "August 17, 2024 1:38:35 PM",
+      "body": "adf"
+    }
+  ]
+}
